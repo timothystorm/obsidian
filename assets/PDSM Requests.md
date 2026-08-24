@@ -1,6 +1,3 @@
-
- [⬅️ GTD](GTD.md)
-
 ## 🕝 Active ServiceNow/PDSM requests
 
 ### RITM8530679
